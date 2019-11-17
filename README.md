@@ -19,8 +19,10 @@ Based on an infographic from https://www.visualcapitalist.com/what-happens-in-an
 Notes: 
 -  This is a Python3 script.  
 - If using this script with the slide deck (Personal OSINT), navigating between the slides and terminal window can be a little tricky. One approach that worked pretty well was to use a browser-hosted terminal window.  This enables the presenter to link directly from the slide deck to a terminal running in a browser on localhost. 
-For seaGL, I used this one -- 
+slide deck -- https://github.com/infomaven/personal-osint/blob/master/slides.pdf
+
+For seaGL, I used this browser terminal -- 
 http://paradoxxxzero.github.io/2014/02/28/butterfly.html . 
-It runs on http://localhost:57575 
+ 
 
 
