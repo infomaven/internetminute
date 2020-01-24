@@ -23,6 +23,9 @@ slide deck -- https://github.com/infomaven/personal-osint/blob/master/slides.pdf
 
 For seaGL, I used this browser terminal -- 
 http://paradoxxxzero.github.io/2014/02/28/butterfly.html . 
+
+![alt text](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/internet-minute-820.jpg)
+
  
 
 
